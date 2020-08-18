@@ -2,7 +2,9 @@
 
 This repo contains scripts to reproduce the results in the paper:
 
-"EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data"
+"EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data",
+
+which is under the review.
 
 # Usage
 The notebooks are created by Google's Colaboratory.
@@ -21,4 +23,4 @@ We recommend you to cite our following paper when using these codes for further 
   year={2020}
 }
 ```
-Further requests can directly be sent to the corresponding authors: Thu Nguyen (thu.nguyen@louisiana.edu) and Binh T. Nguyen (ngtbinh@hcmus.edu.vn).
+Further requests can directly be sent to the corresponding authors: Thu Nguyen (thu.nguyen@louisiana.edu) and Binh T. Nguyen (ngtbinh@hcmus.edu.vn) for an appropriate permission.
