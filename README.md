@@ -4,7 +4,10 @@ This repo contains scripts to reproduce the results in the paper:
 
 "EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data",
 
-which is under the review.
+which is published in <a href='https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346'>
+Information Sciences</a>.
+
+<a href='https://youtu.be/I8oKiTyR0QU'> A video on motivation and data partition.</a> 
 
 # Usage
 The notebooks are created by Google's Colaboratory.
