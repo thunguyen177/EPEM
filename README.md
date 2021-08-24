@@ -23,11 +23,14 @@ The folder "LDA on MNIST_ Fashion MNISTT" contains the codes that produce the re
 ## References
 We recommend you to cite our following paper when using these codes for further investigation:
 ```bash
-@inproceedings{hieu2020,
+@article{nguyen2021epem,
   title={EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data},
-  author={Thu Nguyen, Duy H. M. Nguyen, Huy Nguyen, Binh T. Nguyen, Bruce A. Wade },
-  booktitle={Under Submission},
-  year={2020}
+  author={Nguyen, Thu and Nguyen, Duy HM and Nguyen, Huy and Nguyen, Binh T and Wade, Bruce A},
+  journal={Information Sciences},
+  volume={567},
+  pages={1--22},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 Further requests can directly be sent to the corresponding authors: Thu Nguyen (thu.nguyen@louisiana.edu) and Binh T. Nguyen (ngtbinh@hcmus.edu.vn) for an appropriate permission.
